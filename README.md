@@ -14,3 +14,6 @@
 - React
 - Tailwind css
 - phosphor icons
+
+
+<img src="https://user-images.githubusercontent.com/97841160/188286638-ac1db610-6e40-49b4-b243-44e6f2a0347b.png" width="30%" />
